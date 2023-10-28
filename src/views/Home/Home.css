@@ -1,0 +1,38 @@
+.text-center{
+    text-align: center;
+}
+.card{
+/* background-color: rgb(71, 38, 38); */
+/* border:  2px solid rgb(71, 38, 38); */
+margin-left: 100px;
+margin-right: 150px;
+border-radius: 20px;
+color: rgb(71, 38, 38);
+}
+
+.main-card-container{
+    height: 170px;
+    margin-left: 308px;
+    width: 500px;
+    box-shadow: 3px 6px 3px gray;
+    background-color: rgb(236, 183, 229);
+    color: rgb(71, 38, 38);
+    position: relative;
+}
+.link-btn-view-detail{
+    margin-left: 200px;
+    /* text-decoration: none; */
+}
+.btn-delete{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    margin: 10px;
+}
+
+.btn-edit-student{
+    position: absolute;
+    bottom: 10px;
+    right: 80px;
+    margin: 10px;
+}
